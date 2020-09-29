@@ -1,3 +1,7 @@
+#This file is also used for students to test pulling repos
+#le160516 Logan Essex
+
+
 # CS3560 - Example Project
 
 Example project that uses Doxygen, Makefile, Catch2, Travis CI.
